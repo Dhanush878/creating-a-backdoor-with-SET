@@ -73,15 +73,16 @@ sudo setoolkit
 <img width="858" height="475" alt="image" src="https://github.com/user-attachments/assets/ccc57c59-3c08-4eaa-a059-f3fd884b12c3" />
 
 **4. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
-
+<img width="745" height="216" alt="image" src="https://github.com/user-attachments/assets/b682eb02-567a-4ad0-abdc-f80f9a1bfa33" />
 
 **5. Send the generated link to the victim.**
+<img width="1504" height="663" alt="image" src="https://github.com/user-attachments/assets/d81a6cc8-e111-4852-a5a0-41e9c7eaeab7" />
 
 **6. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-
+<img width="1057" height="396" alt="image" src="https://github.com/user-attachments/assets/9a776264-79f8-40f5-9566-cd25107904bd" />
 
 
 ## RESULT:
